@@ -1,1 +1,0 @@
-wp-eXtplorer is now available at http://kulendra.net/
